@@ -5,6 +5,8 @@ I created this website with food recipe's.
 
 I showcase having a landing page. And the corresponding webpages that relates to the website theme. In my case, Recipe's.
 
+The website link is https://earlsyx.github.io/odin-recipes/
+
 
 For Tuna Pesto Pasta Recipe 
 
